@@ -1,7 +1,1 @@
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
+*The Mustang GT received new E5AE cylinder heads, a revised Holley four-barrel carburetor, a new and more aggressive roller camshaft* (only in models with the manual transmission), less restrictive exhaust manifolds, and **a pseudo-dual exhaust which brought more power to a conservatively rated 210 hp** (157 kW) __engine. **This** would be the last carbureted V8 in the Mustang.__
